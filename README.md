@@ -31,7 +31,7 @@
 <h3 align="center">Ammusing Ourselves To Dea</h3>
 
   <p align="center">
-    Welcome to my Max Interactive Performnace Piece
+    Welcome to my Max Interactive Performance Piece
   </p>
 </div>
 

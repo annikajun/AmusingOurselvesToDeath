@@ -28,7 +28,7 @@
     <img src="Images/About.png" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">Ammusing Ourselves To Dea</h3>
+<h3 align="center">Ammusing Ourselves To Death</h3>
 
   <p align="center">
     Welcome to my Max Interactive Performance Piece

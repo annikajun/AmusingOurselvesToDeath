@@ -31,7 +31,9 @@
 <h3 align="center">Ammusing Ourselves To Death</h3>
 
   <p align="center">
-    Welcome to my Max Interactive Performance Piece
+    Welcome to my Max Interactive Performance Piece. This project is an interactive audio-visual performance that explores the ideas from Neil Postman's book, "Amusing Ourselves to Death," translating abstract concepts of media and public discourse into an interactive experience.
+
+Developed as a duet performance, the project uses Max/MSP and an Arduino with multiple sensors to create an immersive and thought-provoking experience. The audience is presented with an overwhelming flow of fragmented news from local and global sources, forcing them to reflect on their own media consumption. The goal was to demonstrate how technology can both engage and distract, mirroring the book's central arguments about the trivialisation of public life.
   </p>
 </div>
 
@@ -58,7 +60,7 @@
 
 [![Max MSP Image][product-screenshot]]([screenshot-link])
 
-This was an Interactive Piece built using Max MSP
+The system was built using an Arduino-based input system that translates physical gestures or environmental data into digital signals. These signals are then sent to MaxMSP, which processes them in real-time to manipulate various audio and visual parameters. The Arduino code was written to continuously read these sensor values and transmit them serially to MaxMSP. Two performers interact with the system using custom, 3D-printed remotes that house the sensors.
 
 
 

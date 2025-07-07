@@ -58,7 +58,7 @@ Developed as a duet performance, the project uses Max/MSP and an Arduino with mu
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Potfoilo Image][product-screenshot]](https://annikajun.github.io/)
+![Potfoilo Image][product-screenshot]
 
 The system was built using an Arduino-based input system that translates physical gestures or environmental data into digital signals. These signals are then sent to MaxMSP, which processes them in real-time to manipulate various audio and visual parameters. The Arduino code was written to continuously read these sensor values and transmit them serially to MaxMSP. Two performers interact with the system using custom, 3D-printed remotes that house the sensors.
 
@@ -81,7 +81,7 @@ The system was built using an Arduino-based input system that translates physica
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: img/portfolio23_ss.png
+[product-screenshot]: Images/AOTDSetUp.jpeg
 [screenshot-link]: google.com
 
 [max-shiled]:

@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Potfoilo Image][product-screenshot]]([screenshot-link])
+[![Max MSP Image][product-screenshot]]([screenshot-link])
 
 This was an Interactive Piece built using Max MSP
 
